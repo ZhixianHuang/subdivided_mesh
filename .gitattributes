@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+mvs_shape_new_uv_nice2havealignfailed_part003.zip !text !filter !merge !diff
