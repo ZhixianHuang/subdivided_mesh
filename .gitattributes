@@ -1,0 +1,2 @@
+mvs_shape_new_uv5.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
